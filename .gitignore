@@ -1,0 +1,14 @@
+
+*.db
+.vs/Bayes/v14/.suo
+*.lastbuildstate
+*.tlog
+*.pdb
+*.idb
+*.ilk
+*.sln
+*.opendb
+*.vcxproj
+*.filters
+*.log
+*.obj
